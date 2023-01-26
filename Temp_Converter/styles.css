@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
+
+* {
+    box-sizing: content-box;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 17px;
+}
+
+.container {
+    width: 450px;
+    padding: 30px 30px;
+    border-radius: 8px;
+}
+
+input {
+    background-color: rgb(223, 224, 224);
+    width: 50%;
+    height: 20px;
+}
